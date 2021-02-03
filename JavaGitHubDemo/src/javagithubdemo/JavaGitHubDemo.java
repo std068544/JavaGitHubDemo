@@ -18,5 +18,4 @@ public class JavaGitHubDemo {
         // TODO code application logic here
         System.out.println("Hello GiHub");
     }
-    
 }
